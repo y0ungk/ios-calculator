@@ -1,7 +1,7 @@
 Calculator
 ==========
 
-A Reverse Polish Notation Calculator for iOS 6.  This is Assignment I (link [here](http://www.stanford.edu/class/cs193p/cgi-bin/drupal/system/files/assignments/Assignment%201_1.pdf "Assignment 1 PDF")) from Stanford University's CS193P iPhone Application Development Fall 2011 Course.
+A Reverse Polish Notation Calculator for iOS 6.  This is Assignment I ([link](http://www.stanford.edu/class/cs193p/cgi-bin/drupal/system/files/assignments/Assignment%201_1.pdf "Assignment 1 PDF")) from Stanford University's CS193P iPhone Application Development Fall 2011 Course.
 
 ==========
 
@@ -11,9 +11,9 @@ Operations supported:
 * Subtraction - `2 enter 1 -`
 * Multiplication - `2 enter 3 *`
 * Division - `2 enter 4 /`
-* Sine - '.5 sin'
-* Cosine - '1 cos'
-* Square Root - '2 sqrt'
+* Sine - `.5 sin`
+* Cosine - `1 cos`
+* Square Root - `2 sqrt`
 * Clear - `C`
 * Pi - `π`
 
