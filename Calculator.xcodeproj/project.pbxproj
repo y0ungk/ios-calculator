@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		7BBB0C61187141E500D0F2CD /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 7BBB0C60187141E500D0F2CD /* README.md */; };
-		7BBB0C6618715DD500D0F2CD /* Assignment 1.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 7BBB0C6518715DD500D0F2CD /* Assignment 1.pdf */; };
 		7F1A7AAD16ACBF4E00FA1CDE /* CalculatorBrain.m in Sources */ = {isa = PBXBuildFile; fileRef = 7F1A7AAC16ACBF4E00FA1CDE /* CalculatorBrain.m */; };
 		7F33AD2A16A3C2AB00FB019B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F33AD2916A3C2AB00FB019B /* UIKit.framework */; };
 		7F33AD2C16A3C2AB00FB019B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F33AD2B16A3C2AB00FB019B /* Foundation.framework */; };
@@ -25,7 +24,6 @@
 
 /* Begin PBXFileReference section */
 		7BBB0C60187141E500D0F2CD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
-		7BBB0C6518715DD500D0F2CD /* Assignment 1.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Assignment 1.pdf"; path = "../../../Downloads/Assignment 1.pdf"; sourceTree = "<group>"; };
 		7F1A7AAB16ACBF4E00FA1CDE /* CalculatorBrain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CalculatorBrain.h; sourceTree = "<group>"; };
 		7F1A7AAC16ACBF4E00FA1CDE /* CalculatorBrain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CalculatorBrain.m; sourceTree = "<group>"; };
 		7F33AD2516A3C2AB00FB019B /* Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Calculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -66,7 +64,6 @@
 				7F33AD2F16A3C2AB00FB019B /* Calculator */,
 				7F33AD2816A3C2AB00FB019B /* Frameworks */,
 				7F33AD2616A3C2AB00FB019B /* Products */,
-				7BBB0C6518715DD500D0F2CD /* Assignment 1.pdf */,
 				7BBB0C60187141E500D0F2CD /* README.md */,
 			);
 			sourceTree = "<group>";
@@ -175,7 +172,6 @@
 				7F33AD3C16A3C2AB00FB019B /* Default.png in Resources */,
 				7F33AD3E16A3C2AB00FB019B /* Default@2x.png in Resources */,
 				7F33AD4016A3C2AB00FB019B /* Default-568h@2x.png in Resources */,
-				7BBB0C6618715DD500D0F2CD /* Assignment 1.pdf in Resources */,
 				7F33AD4316A3C2AB00FB019B /* MainStoryboard.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
