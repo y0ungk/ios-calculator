@@ -10,4 +10,10 @@
 
 @interface CalculatorViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UILabel *display;
+
+@property (weak, nonatomic) IBOutlet UIButton *digitPressed;
+
+@property (weak, nonatomic) IBOutlet UILabel *brainDisplay;
+
 @end
