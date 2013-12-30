@@ -1,7 +1,7 @@
 Calculator
 ==========
 
-A Reverse Polish Notation Calculator for iOS 6.  This is Assignment I from Stanford University's CS193P iPhone Application Development Fall 2011 Course (http://www.stanford.edu/class/cs193p/cgi-bin/drupal/system/files/assignments/Assignment%201_1.pdf)
+A Reverse Polish Notation Calculator for iOS 6.  This is Assignment I (link [here](http://www.stanford.edu/class/cs193p/cgi-bin/drupal/system/files/assignments/Assignment%201_1.pdf "Assignment 1 PDF")) from Stanford University's CS193P iPhone Application Development Fall 2011 Course.
 
 ==========
 
